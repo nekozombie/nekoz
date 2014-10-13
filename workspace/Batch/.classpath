@@ -2,5 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/poi-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/poi-examples-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/poi-excelant-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/poi-ooxml-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/poi-ooxml-schemas-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/poi-scratchpad-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="D:/my/work/EC2-お勉強用/AWS-EC2-LOCAL-key/nekoz.git/nekoz/workspace/Batch/lib/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
