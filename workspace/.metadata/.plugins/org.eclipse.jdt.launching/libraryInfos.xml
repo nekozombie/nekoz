@@ -17,6 +17,24 @@
 <entry path="C:\eclipse4\java\5\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
+<libraryInfo home="D:\Tools\eclipse\eclipse" version="1.6.0_13">
+<bootpath>
+<entry path="D:\Tools\eclipse\eclipse\jre\lib\resources.jar"/>
+<entry path="D:\Tools\eclipse\eclipse\jre\lib\rt.jar"/>
+<entry path="D:\Tools\eclipse\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="D:\Tools\eclipse\eclipse\jre\lib\jsse.jar"/>
+<entry path="D:\Tools\eclipse\eclipse\jre\lib\jce.jar"/>
+<entry path="D:\Tools\eclipse\eclipse\jre\lib\charsets.jar"/>
+<entry path="D:\Tools\eclipse\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Tools\eclipse\eclipse\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Tools\eclipse\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
 <libraryInfo home="C:\eclipse4\java\7" version="1.7.0_03">
 <bootpath>
 <entry path="C:\eclipse4\java\7\lib\resources.jar"/>
